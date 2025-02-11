@@ -24,7 +24,7 @@
 - Finds it hard to understand project structure without a well-organized codebase.  
 
 ###  Narrative / Scenario
-Jordan recently discovered the **personal portfolio project** on GitHub and is excited to contribute. He clones the repository but struggle to set up the project due to missing **clear installation instructions**. After some troubleshooting, he makes his first contribution by **improving the mobile responsiveness of the project showcase section**.  
+Jordan recently discovered the **personal portfolio project** on GitHub and is excited to contribute. He clones the repository but struggles to set up the project due to missing **clear installation instructions**. After some troubleshooting, he makes his first contribution by **improving the mobile responsiveness of the project showcase section**.  
 
 As he continues contributing, Jordan collaborates with other developers on **refining animations and UI components**. He gains valuable experience in writing **scalable CSS and reusable React components**. Eventually, Jordan uses this project as a key portfolio piece when applying for frontend developer roles.  
 
