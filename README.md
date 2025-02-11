@@ -13,27 +13,12 @@ This project is a comprehensive and visually appealing personal portfolio websit
 # Contributing
 * Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
 
-## 🛠️ Technologies Used  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Frameworks/Libraries**: React.js (optional), Bootstrap/Tailwind  
-- **Backend (if applicable)**: Node.js, Express.js  
-- **Database (if applicable)**: Firebase, MongoDB  
-- **Version Control**: Git & GitHub  
-- **Hosting**: GitHub Pages, Vercel, Netlify, or AWS  
 
 ## Installation & Setup  
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/amayavilayvong/CSC325ClassProject.git
    cd CSC325ClassProject
-
-2. **Install dependencies (if necessary)**
-    ```bash
-    npm install
-
-3. **Run the Development Server**
-    ```bash
-    npm start
 
 
 ## To-Do List
