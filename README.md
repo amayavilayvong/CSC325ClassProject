@@ -12,3 +12,38 @@ This project is a comprehensive and visually appealing personal portfolio websit
 
 # Contributing
 * Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
+
+## 🛠️ Technologies Used  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Frameworks/Libraries**: React.js (optional), Bootstrap/Tailwind  
+- **Backend (if applicable)**: Node.js, Express.js  
+- **Database (if applicable)**: Firebase, MongoDB  
+- **Version Control**: Git & GitHub  
+- **Hosting**: GitHub Pages, Vercel, Netlify, or AWS  
+
+## Installation & Setup  
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/amayavilayvong/CSC325ClassProject.git
+   cd CSC325ClassProject
+
+2. **Install dependencies (if necessary)**
+    ```bash
+    npm install
+
+3. **Run the Development Server**
+    ```bash
+    npm start
+
+
+## To-Do List
+* Improve UI/UX for better engagement
+* Add animations and interactive elements
+* Implement a dark mode feature
+* Optimize for mobile responsiveness
+* Expand the blog section with more articles
+
+## Contact
+* Email: amaya.c.vilayvong@gmail.com
+* LinkedIn: https://www.linkedin.com/in/amaya-vilayvong-2b6572248/
+* GitHub: https://github.com/amayavilayvong
