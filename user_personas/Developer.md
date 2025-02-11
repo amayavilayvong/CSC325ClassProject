@@ -14,7 +14,7 @@
 - Gain hands-on experience with **frontend development, UI/UX, and portfolio design**.  
 - Collaborate with other developers and learn best practices for clean, maintainable code.  
 - Improve proficiency in **HTML, CSS, JavaScript, and React.js**.  
-- Create a portfolio-worthy project that demonstrates their skills to potential employers.  
+- Create a portfolio-worthy project that demonstrates his skills to potential employers.  
 
 ### ⚠️ Challenges & Pain Points
 - Struggles with setting up **local development environments** efficiently.  
