@@ -12,12 +12,12 @@ vale .
 markdownlint .
 ```
 
-### 2. Fix All Warnings
+## 2. Fix All Warnings
 If the commands return any warnings or errors, you _must_ fix them before pushing your changes to the main branch.
   * Vale ensures that your Markdown content is clear, consistent, and follows the project's specific writing style. 
   * Markdownlint enforces proper Markdown formatting to prevent structural or readability issues, and it also checks for spelling or grammatical errors.
 
-#### 3. Do NOT Modify the Configurations
+## 3. Do NOT Modify the Configurations
 **DO NOT** change any of the Vale or Markdownlint configurations.
 * The repository is already set up with the correct settings. It should be ready to go.
 * If you encounter an issue where something is _not working_, **do not attempt to configure Vale or Markdownlint yourself.** Instead, please report it to the team **immediately.**
