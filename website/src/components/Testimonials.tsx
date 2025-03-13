@@ -8,6 +8,12 @@ import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid2';
 import { useTheme } from '@mui/system';
+/*To get the images to show up, create and navigate to the static/images/avatar directory within
+the website directory. Once in the avatar folder, use the wget command + the URL for each individual
+avatar from the MUI github repository to import the pictures into the folder, where they
+can be accessed locally. For example, to access avatar #1: 
+wget https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/images/avatar/1.jpg */
+
 
 const userTestimonials = [
   {
@@ -32,7 +38,7 @@ const userTestimonials = [
       'The level of simplicity and user-friendliness in this product has significantly simplified my life. I appreciate the creators for delivering a solution that not only meets but exceeds user expectations.',
   },
   {
-    avatar: <Avatar alt="Remy Sharp" src="/static/images/avatar/4.jpg" />,
+    avatar: <Avatar alt="Remy Sharp" src="/static/images/avatar/4.jpg"/>,
     name: 'Julia Stewart',
     occupation: 'Senior Engineer',
     testimonial:
