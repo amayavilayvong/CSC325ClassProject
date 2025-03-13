@@ -30,6 +30,25 @@ or:
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/v6.x/examples/material-ui-nextjs-ts)
 
+## To Build and Test:
+
+* Make sure you are cd'd into the website directory before running the following commands.
+* Run them in the order you see below.
+
+```bash
+npm install
+npm run build
+npm install http-server
+```
+* The build command should generate a directory titled "out." Cd into out.
+* You MUST be cd'd into out before running the next command, or it will not run correctly.
+
+```bash
+npx http-server
+```
+
+* You should receive a prompt to open the port where the webpage loads in a browser. Click "Open in Browser".
+
 ## Learn more
 
 To learn more about this example:
