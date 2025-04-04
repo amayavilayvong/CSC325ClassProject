@@ -52,8 +52,14 @@ npx http-server
 
 ## To Test using Jest:
 
-* Make sure that jest has been downloaded and properly configured within the website directory.
-* After jest is correctly installed, make sure that you are cd'd into the `__tests__` directory before proceeding. 
+* First, make sure that jest has been downloaded and properly configured within the website directory. Cd into the website directory and run the following command:
+
+```bash
+npm install -D jest jest-environment-jsdom @testing-library/react @testing-library/dom @testing-library/jest-dom ts-node
+```
+
+* This command will ensure that jest is setup and that you can use the command below to run the test script. 
+* After jest is successfully installed, make sure that you are cd'd into the `__tests__` directory before proceeding. 
 * Once this has been verified, run the following command:
 
 ```bash
