@@ -55,7 +55,7 @@ npx http-server
 * Make sure you are cd'd into the website directory and that jest has been downloaded and properly configured.
 * Once this has been verified, run the following command:
 
-  ```bash
+```bash
 npm run test
 ```
 * The output of this command will show the tests that were successfully passed as well as any tests that were failed, along with documentation for why the test faied.
