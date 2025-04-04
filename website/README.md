@@ -52,7 +52,8 @@ npx http-server
 
 ## To Test using Jest:
 
-* Make sure you are cd'd into the website directory and that jest has been downloaded and properly configured.
+* Make sure that jest has been downloaded and properly configured within the website directory.
+* After jest is correctly installed, make sure that you are cd'd into the __tests__ directory before proceeding. 
 * Once this has been verified, run the following command:
 
 ```bash
