@@ -49,6 +49,18 @@ npx http-server
 
 * You should receive a prompt to open the port where the webpage loads in a browser. Click "Open in Browser".
 
+
+## To Test using Jest:
+
+* Make sure that jest has been downloaded and properly configured within the website directory.
+* After jest is correctly installed, make sure that you are cd'd into the `__tests__` directory before proceeding. 
+* Once this has been verified, run the following command:
+
+```bash
+npm run test
+```
+* The output of this command will show the tests that were successfully passed as well as any tests that were failed, along with documentation for why the test faied.
+
 ## Learn more
 
 To learn more about this example:

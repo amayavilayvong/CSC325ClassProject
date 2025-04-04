@@ -148,6 +148,7 @@ export default function Hero() {
         </Stack>
         
       </Container>
-    </Box>
+      <StyledBox data-testid="hero-visual" />   //The Hero styled div needs to be rendered as an image/visual before it can be tested
+    </Box>    
   );
 }
