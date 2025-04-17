@@ -19,7 +19,7 @@ jobs:
       #Add Vale documentation validation; install it first
       - name: Install Vale
         run: |
-          curl -L -o vale.tar.gz https://github.com/errata-ai/vale/releases/latest/download/vale_Linux_64-bit.tar.gz
+          curl -L -o vale.tar.gz https://github.com/errata-ai/vale/releases/download/v2.29.5/vale_2.29.5_Linux_64-bit.tar.gz
           tar -xzf vale.tar.gz
           sudo mv vale /usr/local/bin
 
