@@ -50,7 +50,7 @@ npx http-server
 * You should receive a prompt to open the port where the webpage loads in a browser. Click "Open in Browser".
 
 
-## To Test using Jest:
+## To Test With Jest:
 
 * First, make sure that jest has been downloaded and properly configured within the website directory. Cd into the website directory and run the following command:
 
