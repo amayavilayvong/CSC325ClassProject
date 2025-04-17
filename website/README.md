@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-nex
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+Download the example [or clone the repository](https://github.com/mui/material-ui):
 
 <!-- #default-branch-switch -->
 
@@ -32,7 +32,7 @@ or:
 
 ## To Build and Test:
 
-* Make sure you are cd'd into the website directory before running the following commands.
+* Make sure you are cd into the website directory before running the following commands.
 * Run them in the order you see below.
 
 ```bash
@@ -47,7 +47,7 @@ npm install http-server
 npx http-server
 ```
 
-* You should receive a prompt to open the port where the webpage loads in a browser. Click "Open in Browser".
+* You should receive a prompt to open the port where the webpage loads in a browser. Click "Open in Browser."
 
 
 ## To Test With Jest:
@@ -59,13 +59,13 @@ npm install -D jest jest-environment-jsdom @testing-library/react @testing-libra
 ```
 
 * This command will ensure that jest is setup and that you can use the command below to run the test script. 
-* After jest is successfully installed, make sure that you are cd'd into the `__tests__` directory before proceeding. 
+* After jest is successfully installed, make sure that you are cd into the `__tests__` directory before proceeding. 
 * Once this has been verified, run the following command:
 
 ```bash
 npm run test
 ```
-* The output of this command will show the tests that were successfully passed as well as any tests that were failed, along with documentation for why the test faied.
+* The output of this command will show the tests that were successfully passed as well as any tests that were failed, along with documentation for why the test failed.
 
 ## Learn more
 
