@@ -41,7 +41,7 @@ npm run build
 npm install http-server
 ```
 * The build command should generate a directory titled "out." Cd into out.
-* You MUST be cd'd into out before running the next command, or it will not run correctly.
+* You MUST be cd into out before running the next command, or it will not run correctly.
 
 ```bash
 npx http-server
